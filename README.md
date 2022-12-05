@@ -10,7 +10,7 @@ And the next is Halo The Master Chief Collection
 ![HaloMCCGrafica](https://user-images.githubusercontent.com/119823416/205553965-abb9e8cb-4332-47e8-9c75-64e074da0275.png)
 
 
-These images were taken fromm steamplayercount.com
+
 
 
 After, thanks to a webpage https://apps.automeris.io/wpd/ i was able to get the point of a graphic, and save it into a JSON wich is gonna be bellow, and get a CSV.
