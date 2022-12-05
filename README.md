@@ -14,3 +14,6 @@ These images were taken fromm steamplayercount.com
 
 After, thanks to a webpage https://apps.automeris.io/wpd/ i was able to get the point of a graphic, and save it into a JSON wich is gonna be bellow, and get a CSV.
 With those CSV Files i was able to get them into Excel and generate a graphic to compare both of them and see what the difference is.
+
+![graficode_jugadores](https://user-images.githubusercontent.com/119823416/205535335-a2a64f84-43d9-485a-ba93-7a9e5d5f95ec.png)
+
