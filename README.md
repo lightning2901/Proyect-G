@@ -20,5 +20,7 @@ With those CSV Files i was able to get them into Excel and generate a graphic to
 
 Series 1 and 2 represent Battlefield, while 4 and 5 represent Halo.
 
+As a conclusion,  got that Battlefield has a deficit from about 6 thousand players, those calculations are in the python file, with an explanation about how it works.
+
 As we can see Halo's numbers are constant most of the time, and lately, they're growing, but the same can't be said for Battlefield.
 
