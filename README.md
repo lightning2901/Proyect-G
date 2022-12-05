@@ -3,11 +3,12 @@ A proyect about differences on videogame players between 2 videogames, HALO MCC 
 First of all we have the graphics of each videogame.
 
 The first one is Battlefield
-![BallefieldGrafica](https://user-images.githubusercontent.com/119823416/205551403-6519c4cd-fe56-4521-a8bd-50aafe9cee67.png)
+![BallefieldGrafica](https://user-images.githubusercontent.com/119823416/205553928-a5236422-c935-47cf-9f54-486d596562c1.png)
 
 And the next is Halo The Master Chief Collection
 
-![HaloMCCGrafica](https://user-images.githubusercontent.com/119823416/205551462-90090414-66f6-4928-8839-2ce2f9c5d8db.png)
+![HaloMCCGrafica](https://user-images.githubusercontent.com/119823416/205553965-abb9e8cb-4332-47e8-9c75-64e074da0275.png)
+
 
 These images were taken fromm steamplayercount.com
 
