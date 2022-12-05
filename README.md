@@ -17,3 +17,7 @@ With those CSV Files i was able to get them into Excel and generate a graphic to
 
 ![graficode_jugadores](https://user-images.githubusercontent.com/119823416/205535335-a2a64f84-43d9-485a-ba93-7a9e5d5f95ec.png)
 
+Series 1 and 2 represent Battlefield, while 4 and 5 represent Halo.
+
+As we can see Halo's numbers are constant most of the time, and lately, they're growing, but the same can't be said for Battlefield.
+
