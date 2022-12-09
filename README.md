@@ -1,4 +1,11 @@
 # Proyect-G
+# Author
+José Ángel López Gutiérrez, student from ENES Morelia
+# Contact
+jalg030129@gmail.com 
+# License
+GNU General Public License v3.0
+Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
 A proyect about differences on videogame players between 2 videogames, HALO MCC and Battlefield 2042
 First of all we have the graphics of each videogame.
 
