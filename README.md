@@ -6,8 +6,13 @@ jalg030129@gmail.com
 # License
 GNU General Public License v3.0
 Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
-A proyect about differences on videogame players between 2 videogames, HALO MCC and Battlefield 2042
-First of all we have the graphics of each videogame.
+
+# Installation Info
+To install and run you'll need to have installed Python 3 on your device, you can download an IDE like Pycharm, Visual Studio Code, emacs, etc. Once you got it installed you're going to dowldoad the file geometría.py or just copy the code if it's easier for you, and run it on your computer by pressing the button "run" on your IDE or by ./geometría.py on your terminal, you won't need anything else; be sure you give access to read an execute the file before running.
+
+# Introduction
+The objective of this project is to compare and see how it's been the behaviour between these 2 games, Battlefield being a new game that promised a lot, and Halo The Master Chief collection wich has 5 classic games from Halo Combat Evolved (2001) to Halo 4 (2012). The comparisno will show us the difference on the amount of players each month from january to the very last day of august in 2022. Both are FPS games with multiplayer online and with updates still going.
+
 
 The first one is Battlefield
 ![BallefieldGrafica](https://user-images.githubusercontent.com/119823416/205553928-a5236422-c935-47cf-9f54-486d596562c1.png)
