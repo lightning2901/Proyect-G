@@ -14,7 +14,7 @@ To install and run you'll need to have installed Python 3 on your device, you ca
 To do this posible the first step was the analysis of the data presented by steamcharts.com and then, looking at each 1st day of the month and taking notes about the number of players of each game, but also taking in count that some holidays and in-game updates may be the cause of the variability of the graphic.
 Once we selected the infromation, in the program Geometría.py, there's two set of list, each one has 17 elements, we divides the month by two (1st and 15th day), selected the data, and by operating the set of list we get to know with proximity the difference between the amount of players.
 # Proofs
-Not only these games are avaliable on steam, they're also in platforms like EA PLay, Playstation Store, Xbox Gamepass, etc, but the biggest base of players still is Steam, and by consulting the information wich is transparent to everyone you can see it, also the JSON files can show you this, considering that is 2022 period January - August 
+Not only these games are avaliable on steam, they're also in platforms like EA Play, Playstation Store, Xbox Gamepass, etc, but the biggest base of players still is Steam, and by consulting the information wich is transparent to everyone you can see it, also the JSON files can show you this, considering that is 2022 period January - August 
 
 # Introduction
 The objective of this project is to compare and see how it's been the behaviour in terms of the number of players between these 2 games, Battlefield being a new game that promised a lot, and Halo The Master Chief collection wich has 5 classic games from Halo Combat Evolved (2001) to Halo 4 (2012). The comparison will show us the difference on the amount of players each month from january to the very last day of august in 2022. Both are FPS (First Person Shooters) games with multiplayer online and with updates still going.
@@ -48,6 +48,7 @@ As we can see Halo's numbers are constant most of the time, and lately, they're 
 
 # Bibliography 
 https://steamplayercount.com/app/976730
+
 https://steamplayercount.com/app/1517290
 https://store.steampowered.com/app/976730/Halo_The_Master_Chief_Collection/
 https://store.steampowered.com/app/1517290/Battlefield_2042/
