@@ -43,8 +43,8 @@ Battlefield is the blue line and Halo the orange one.
 
 
 # Conclusion
-As a conclusion,  got that Battlefield has a deficit from about 6 thousand players, those calculations are in the python file, with an explanation about how it works.
-As we can see Halo's numbers are constant most of the time, and lately, they're growing, but the same can't be said for Battlefield. If we take a look at the feedback from the users we can say that a newer videogame is not always best that the classsic ones, but ultimately, having fresh content continously leads to be succesfull like Halo
+As a conclusion,  got that Battlefield has a deficit from about 6 thousand players, in the beggining of the year the hipothesis was that the high level of players is caused by the holydays wich is undestandable, but later on, specially from february to the last days of may, Batttlefield lost a huge mount of players online, while Halo continued to be stable, and later in June both had a spike because of the holidays and also updates in both videogames.
+As we can see Halo's numbers are constant most of the time, and lately, they're growing, but the same can't be said for Battlefield. If we take a look at the feedback from the users we can say that a newer videogame is not always best that the classsic ones, but ultimately, having fresh content continously leads to be succesfull like Halo.
 
 # Bibliography 
 https://steamplayercount.com/app/976730
